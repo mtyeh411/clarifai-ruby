@@ -1,4 +1,5 @@
 require File.expand_path('../version', __FILE__)
+require 'faraday'
 
 module Clarifai
   # Defines constants and methods related to configuration

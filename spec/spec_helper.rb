@@ -1,7 +1,6 @@
 require 'minitest/spec'
 require 'minitest/autorun'
 
-require 'faraday'
 require 'clarifai'
 
 def client_id
